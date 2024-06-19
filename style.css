@@ -1,0 +1,26 @@
+body{
+    background-color: silver;
+}
+
+h1{
+    font-family: Verdana;
+    font-style: bold;
+    font-weight: 200;
+}
+
+h4{
+    font-size: larger;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: ruby;
+}
+
+img{
+    width: 300px;
+    border-radius: 10%;
+    padding: 100px;
+    box-shadow: inset;
+}
